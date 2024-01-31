@@ -1,5 +1,5 @@
 # Project Title: Analysis on Complete Works of Swami Vivekananda
-![Swami Vivekananda](etc/swami-ji.svg)
+![Swami Vivekananda](etc/swami-ji.png)
 ## Overview
 This project aims to apply the Flajolet-Martin Algorithm to estimate the cardinality of unique elements in the entire collection of Swami Vivekananda's complete works. The Flajolet-Martin Algorithm is a probabilistic method commonly used for large-scale data sets, providing an efficient way to estimate the number of distinct elements without needing to store them explicitly.
 
@@ -22,5 +22,3 @@ This project aims to apply the Flajolet-Martin Algorithm to estimate the cardina
 
 ## Future Work
 Potential future enhancements could include exploring other probabilistic algorithms for cardinality estimation, optimizing the algorithm further, or extending the analysis to specific subsets of Swami Vivekananda's works.
-
-
